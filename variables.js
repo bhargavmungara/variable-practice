@@ -11,3 +11,6 @@ var dogAge=11
 
 var male=false
 
+var dogch=34
+
+var dogToys=100
