@@ -14,3 +14,7 @@ var male=false
 var dogch=34
 
 var dogToys=100
+
+var teeth=false
+
+var fur=true
